@@ -1,5 +1,5 @@
 Thanks for helping make GitHub safe for everyone.
-# Güvenlik (SECURITY.md)
+# Güvenlik
 
 Bu depo: `Cpp-Ornekler` (sahibi: `yusufyorunc`) örnek C++ projeleri içerir. Bu dosya, güvenlik açıklarını nasıl bildireceğinizi ve hangi bilgilerin faydalı olduğunu açıklamak için hazırlanmıştır.
 
