@@ -35,7 +35,6 @@ Not: Her projenin çalışma dizini ve giriş noktası (`main`) farklı olabilir
 - `Degiskenler` — Değişken türleri ve temel atamalar.
 - `Degisken ve Ram` — Değişkenlerin bellekteki temsili ve RAM ilişkisi.
 - `Diziler` — Tek boyutlu diziler örnekleri.
-- `Isaretciler` — İşaretçi (pointer) kullanımı ve bellek adresleme.
 - `İc İce Diziler` — Çok boyutlu (iç içe) diziler örnekleri.
 - `For Kullanimi` — `for` döngüsü örnekleri.
 - `While Kullanimi` — `while` döngüsü örnekleri.
@@ -56,6 +55,7 @@ Not: Her projenin çalışma dizini ve giriş noktası (`main`) farklı olabilir
 - `Istisnalar` — İstisna (exception) yakalama ve fırlatma.
 - `Cok Bicimlilik` — Polimorfizm (çok biçimlilik) örnekleri.
 - `Bellek Yonetimi` — Dinamik bellek, new/delete kullanımı.
+- `AkilliIsaretciler` — Modern C++ akıllı işaretçileri (`unique_ptr`, `shared_ptr`, `weak_ptr`).
 
 ## Katkıda bulunma
 
