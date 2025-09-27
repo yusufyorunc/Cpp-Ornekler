@@ -35,6 +35,7 @@ Not: Her projenin çalışma dizini ve giriş noktası (`main`) farklı olabilir
 - `Degiskenler` — Değişken türleri ve temel atamalar.
 - `Degisken ve Ram` — Değişkenlerin bellekteki temsili ve RAM ilişkisi.
 - `Diziler` — Tek boyutlu diziler örnekleri.
+- `Isaretciler` — İşaretçi (pointer) kullanımı ve bellek adresleme.
 - `İc İce Diziler` — Çok boyutlu (iç içe) diziler örnekleri.
 - `For Kullanimi` — `for` döngüsü örnekleri.
 - `While Kullanimi` — `while` döngüsü örnekleri.
